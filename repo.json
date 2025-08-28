@@ -2,13 +2,22 @@
     {
         "Author": "Pyraxnea",
         "Name": "StreetSweeper",
+        "InternalName": "StreetSweeper",
         "Punchline": "Keep your city clean!",
         "Description": "Automatically hides bots found in major cities using a simple set of heuristics.",
+        "AssemblyVersion": "0.1.0.0",
+        "TestingAssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/pyraxnea/StreetSweeper",
         "ApplicableVersion": "any",
-        "Tags": [
-            "hide",
-            "bots",
-            "city"
-        ]
+        "DalamudApiLevel": 13,
+        "TestingDalamudApiLevel": 13,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "DownloadLinkInstall": "https://github.com/pyraxnea/StreetSweeper/releases/download/0.1.0.0/StreetSweeper.zip",
+        "DownloadLinkTesting": "https://github.com/pyraxnea/StreetSweeper/releases/download/0.1.0.0/StreetSweeper.zip",
+        "DownloadLinkUpdate": "https://github.com/pyraxnea/StreetSweeper/releases/download/0.1.0.0/StreetSweeper.zip",
+        "IconUrl": "https://raw.githubusercontent.com/pyraxnea/StreetSweeper/master/images/icon.png"
     }
 ]
