@@ -15,9 +15,9 @@
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
         "LastUpdate": 0,
-        "DownloadLinkInstall": "https://github.com/pyraxnea/StreetSweeper/releases/download/0.1.0.0/StreetSweeper.zip",
-        "DownloadLinkTesting": "https://github.com/pyraxnea/StreetSweeper/releases/download/0.1.0.0/StreetSweeper.zip",
-        "DownloadLinkUpdate": "https://github.com/pyraxnea/StreetSweeper/releases/download/0.1.0.0/StreetSweeper.zip",
+        "DownloadLinkInstall": "https://github.com/pyraxnea/StreetSweeper/releases/download/v0.1.0.0/StreetSweeper.zip",
+        "DownloadLinkTesting": "https://github.com/pyraxnea/StreetSweeper/releases/download/v0.1.0.0/StreetSweeper.zip",
+        "DownloadLinkUpdate": "https://github.com/pyraxnea/StreetSweeper/releases/download/v0.1.0.0/StreetSweeper.zip",
         "IconUrl": "https://raw.githubusercontent.com/pyraxnea/StreetSweeper/master/images/icon.png"
     }
 ]
