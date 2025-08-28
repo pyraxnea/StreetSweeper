@@ -1,12 +1,14 @@
-{
-    "Author": "Pyraxnea",
-    "Name": "StreetSweeper",
-    "Punchline": "Keep your city clean!",
-    "Description": "Automatically hides bots found in major cities using a simple set of heuristics.",
-    "ApplicableVersion": "any",
-    "Tags": [
-        "hide",
-        "bots",
-        "city"
-    ]
-}
+[
+    {
+        "Author": "Pyraxnea",
+        "Name": "StreetSweeper",
+        "Punchline": "Keep your city clean!",
+        "Description": "Automatically hides bots found in major cities using a simple set of heuristics.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "hide",
+            "bots",
+            "city"
+        ]
+    }
+]
